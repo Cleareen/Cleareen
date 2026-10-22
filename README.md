@@ -1,140 +1,99 @@
-<p align="center">
-  <b>Junior Software and Data Engineer</b> · Johannesburg, South Africa<br>
-  Building cloud, data and web solutions, backed by 5+ years of teaching experience in programming and computer science.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3A5F&height=150&section=header&text=Eddie%20Mkansi&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Junior%20Software%20%26%20Data%20Engineer&descAlignY=60&descSize=18" alt="Eddie Mkansi, Junior Software and Data Engineer" width="100%">
+
+Teacher turned developer, based in Johannesburg, South Africa.
+I build data pipelines, cloud applications and web products.
+
+<a href="https://www.linkedin.com/in/eddie-mkansi-1247b8116/"><img src="https://img.shields.io/badge/LinkedIn-Eddie%20Mkansi-1F3A5F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:mkansieddie4@gmail.com"><img src="https://img.shields.io/badge/Email-mkansieddie4@gmail.com-1F3A5F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.machonisa.com"><img src="https://img.shields.io/badge/Live%20product-machonisa.com-1F3A5F?style=for-the-badge" alt="machonisa.com"></a>
+
+</div>
+
+<br>
+
+## About me
+
+I started out as a teacher. I've spent the last five years teaching maths, IT and computer science, and over the past few years I've been building the skills to work as a developer and data engineer too. Right now I teach Java, SQL and computer science at Future Nation Schools, and I build things in the evenings.
+
+I have a B.Ed. (with distinction) from Wits and a BSc Honours in Information Technology from Richfield. My Honours dissertation looked at cybersecurity and how to keep information systems safe, and that still shapes how I think about the systems I build. I've since done software engineering with ALX and data engineering with ExploAI, and I hold AWS, Oracle Cloud and Google certifications.
+
+Teaching taught me to explain things plainly and to write documentation that someone else can follow. I try to bring both into my code.
+
+**I'm looking for a junior developer or junior data engineer role**, ideally one involving data pipelines, cloud services or backend development.
+
+<br>
+
+## What I've built
+
+| Project | What it does | Built with |
+|---|---|---|
+| **[machonisa.com](https://www.machonisa.com)** | A platform for informal lenders (machonisas) to track borrowers, loans, repayments and cash flow. I built and launched it myself, and it has real users. | Live product |
+| **Airflow ETL pipeline** | An ETL workflow orchestrated with Airflow, running in Docker on EC2 and loading transformed data into PostgreSQL on Amazon RDS. | Airflow, Docker, EC2, RDS, PostgreSQL |
+| **Spark Predict** | Processes Nasdaq data stored in S3 with PySpark and runs automated data quality checks. | PySpark, Spark, Deequ, S3 |
+| **Streaming Predict** | A real-time pipeline: Lambda handles incoming data, Firehose delivers it to S3, SNS sends notifications and CloudWatch monitors it. | Lambda, Kinesis Firehose, SNS, DynamoDB, S3, CloudWatch |
+| **EDSA Cloud Predict** | A serverless prediction application with its infrastructure defined as code. | Amplify, API Gateway, Lambda, DynamoDB, Comprehend, SES, CloudFormation |
+| **Riendzo** *(in progress)* | A travel social app I'm building. | Flutter, Dart, Microsoft SQL Server |
+
+Repository links for the pipeline projects are coming soon.
+
+<br>
+
+## What I work with
+
+<p>
+<img src="https://img.shields.io/badge/Python-1F3A5F?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL-1F3A5F?style=flat-square" alt="SQL">
+<img src="https://img.shields.io/badge/Java-1F3A5F?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/JavaScript-1F3A5F?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/Dart-1F3A5F?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+</p>
+<p>
+<img src="https://img.shields.io/badge/Apache%20Airflow-2E6F9E?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow">
+<img src="https://img.shields.io/badge/Apache%20Spark-2E6F9E?style=flat-square&logo=apachespark&logoColor=white" alt="Spark">
+<img src="https://img.shields.io/badge/PostgreSQL-2E6F9E?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/SQL%20Server-2E6F9E?style=flat-square" alt="SQL Server">
+<img src="https://img.shields.io/badge/DynamoDB-2E6F9E?style=flat-square" alt="DynamoDB">
+<img src="https://img.shields.io/badge/Deequ-2E6F9E?style=flat-square" alt="Deequ">
+</p>
+<p>
+<img src="https://img.shields.io/badge/AWS-5B7DB1?style=flat-square" alt="AWS">
+<img src="https://img.shields.io/badge/Oracle%20Cloud-5B7DB1?style=flat-square" alt="Oracle Cloud">
+<img src="https://img.shields.io/badge/Docker-5B7DB1?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Linux-5B7DB1?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+</p>
+<p>
+<img src="https://img.shields.io/badge/React-7A8BA3?style=flat-square&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/Node.js-7A8BA3?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-7A8BA3?style=flat-square&logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/Flutter-7A8BA3?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eddie-mkansi-1247b8116/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mkansieddie4@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.machonisa.com"><img src="https://img.shields.io/badge/Live%20Product-machonisa.com-1F3A5F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="machonisa.com"></a>
-</p>
+<br>
 
----
+## Qualifications
 
-## 👨‍💻 About Me
-
-I'm an IT educator turned developer. I hold a **B.Ed. (with distinction)** and a **BSc Honours in Information Technology**, and I have completed software engineering and data engineering bootcamps with **ALX** and **ExploAI**.
-
-I teach Java, SQL and computer science, and outside the classroom I build:
-
-- **Data pipelines** that move, transform and validate data (Airflow, PySpark, Deequ, PostgreSQL)
-- **Cloud applications** on AWS (serverless, streaming and event-driven designs)
-- **Web products** with real users, including [machonisa.com](https://www.machonisa.com)
-
-My teaching background means I explain technical ideas clearly and document my work properly, and my cybersecurity research gives me a security-first mindset when I design systems.
-
-## 🎯 Currently
-
-- 🔭 Seeking a **junior software developer** or **junior data engineer** role
-- 📚 Deepening my skills in data modelling, pipeline orchestration and cloud architecture
-- 🔐 Applying secure design principles to the software and data systems I build
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-**Data Engineering**
-
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**Web and Mobile**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🌐 [machonisa.com](https://www.machonisa.com) · Live product
-A web platform that helps informal lenders (machonisas) manage borrowers, loans, repayments and cash flow in one place. Designed, built and launched by me, and used by real users.
-
-### 🔄 Airflow ETL Pipeline
-`Apache Airflow` `Docker` `Amazon EC2` `Amazon RDS` `PostgreSQL`
-
-An ETL workflow orchestrated with Airflow and containerised with Docker. It runs on EC2 and loads transformed data into a PostgreSQL database on Amazon RDS.
-👉 [View repository](#) *(add link)*
-
-### ⚡ Spark Predict
-`PySpark` `Apache Spark` `Deequ` `Amazon S3`
-
-Distributed processing of Nasdaq data stored in S3, with automated data quality checks using Deequ.
-👉 [View repository](#) *(add link)*
-
-### 📡 Streaming Predict
-`AWS Lambda` `Kinesis Data Firehose` `SNS` `DynamoDB` `S3` `CloudWatch`
-
-A real-time streaming pipeline that delivers data to S3, sends notifications through SNS and is monitored with CloudWatch.
-👉 [View repository](#) *(add link)*
-
-### ☁️ EDSA Cloud Predict
-`AWS Amplify` `API Gateway` `Lambda` `DynamoDB` `Comprehend` `SES` `CloudFormation`
-
-A serverless prediction application on AWS, with its infrastructure defined as code in CloudFormation.
-👉 [View repository](#) *(add link)*
-
-### 📱 Riendzo · In development
-`Flutter` `Dart` `Microsoft SQL Server`
-
-A travel social mobile app with an API-based architecture, currently in design and development.
-
----
-
-## 🎓 Education
-
-| Year | Qualification | Institution |
-|------|---------------|-------------|
+| Year | Qualification | Where |
+|---|---|---|
 | 2024 | Data Engineering Programme | ExploAI |
 | 2023 | Software Engineering Programme | ALX |
 | 2022 | BSc Honours, Information Technology | Richfield |
 | 2020 | BCom Information Systems (first year) | University of Johannesburg |
-| 2019 | Bachelor of Education (with distinction) | University of the Witwatersrand |
+| 2019 | B.Ed. with distinction | University of the Witwatersrand |
 
-**Honours research:** *Exploring the role of cybersecurity in ensuring safe and secure information systems.*
-
-## 📜 Certifications
+**Certifications**
 
 | Provider | Certification |
-|----------|---------------|
-| AWS | Certified Cloud Practitioner · Certified AI Practitioner |
-| Google | Advanced Data Analytics · Business Intelligence · Cybersecurity |
-| Oracle Cloud | Developer Professional · DevOps Professional |
+|---|---|
+| AWS | Certified Cloud Practitioner, Certified AI Practitioner |
+| Google | Advanced Data Analytics, Business Intelligence, Cybersecurity |
+| Oracle Cloud | Developer Professional, DevOps Professional |
 
----
+<br>
 
-## 🏫 Experience
+## Get in touch
 
-- **IT (Java and SQL) and Computer Science Teacher**, Future Nation Schools (2024 – Present)
-- **ICT Coordinator and Moodle Administrator**, Breyten Circuit, Ermelo (2023 – 2025)
-- **Teacher and ICT Coordinator**, Umzimvelo Agricultural / Combined School (2021 – 2025)
+If you're hiring, or you just want to talk about data, cloud or teaching, I'd like to hear from you. Email is the quickest way to reach me: [mkansieddie4@gmail.com](mailto:mkansieddie4@gmail.com).
 
----
-
-## 📫 Let's Connect
-
-I'm open to junior software developer and data engineering opportunities. The best ways to reach me:
-
-- 📧 **Email:** [mkansieddie4@gmail.com](mailto:mkansieddie4@gmail.com)
-- 💼 **LinkedIn:** [eddie-mkansi](https://www.linkedin.com/in/eddie-mkansi-1247b8116/)
-- 📱 **Phone:** +27 60 323 3003
-
-<p align="center"><i>Thanks for visiting my profile!</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3A5F&height=70&section=footer" alt="" width="100%">
