@@ -1,7 +1,5 @@
 <div align="center">
 
-<type=waving&color=1F3A5F&height=150&section=header&text=Eddie%20Mkansi&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Junior%20Software%20%26%20Data%20Engineer&descAlignY=60&descSize=18" alt="Eddie Mkansi, Junior Software and Data Engineer" width="100%">
-
 Teacher turned developer, based in Johannesburg, South Africa.
 I build data pipelines, cloud applications and web products.
 
