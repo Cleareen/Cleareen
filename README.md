@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an IT educator turned developer. I hold a **B.Ed. (with distinction)** and a **BSc Honours in Information Technology**, and I have completed software engineering and data engineering programmes with **ALX** and **ExploAI**.
+I'm an IT educator turned developer. I hold a **B.Ed. (with distinction)** and a **BSc Honours in Information Technology**, and I have completed software engineering and data engineering bootcamps with **ALX** and **ExploAI**.
 
 I teach Java, SQL and computer science, and outside the classroom I build:
 
