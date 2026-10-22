@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Eddie Mkansi 👋</h1>
-
 <p align="center">
   <b>Junior Software and Data Engineer</b> · Johannesburg, South Africa<br>
   Building cloud, data and web solutions, backed by 5+ years of teaching experience in programming and computer science.
